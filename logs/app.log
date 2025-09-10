@@ -1,0 +1,12 @@
+2025-09-10 17:09:57 INFO  mqtt_client_demo1 src\lib.rs:8 - INFO
+2025-09-10 17:09:57 INFO  mqtt_client_demo1 src\lib.rs:55 - Thi***************.
+2025-09-10 17:09:57 INFO  mqtt_client_demo1 src\lib.rs:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 28 })
+2025-09-10 17:09:57 INFO  mqtt_client_demo1::tests src\lib.rs:93 - This is an info message from the test.
+2025-09-10 17:10:05 INFO  mqtt_client_demo1 src\lib.rs:8 - INFO
+2025-09-10 17:10:05 INFO  mqtt_client_demo1 src\lib.rs:55 - Thi***************.
+2025-09-10 17:10:05 INFO  mqtt_client_demo1 src\lib.rs:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 29 })
+2025-09-10 17:10:05 INFO  mqtt_client_demo1::tests src\lib.rs:93 - This is an info message from the test.
+2025-09-10 17:10:14 INFO  mqtt_client_demo1 src\lib.rs:8 - INFO
+2025-09-10 17:10:14 INFO  mqtt_client_demo1 src\lib.rs:55 - Thi***************.
+2025-09-10 17:10:14 INFO  mqtt_client_demo1 src\lib.rs:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 30 })
+2025-09-10 17:10:14 INFO  mqtt_client_demo1::tests src\lib.rs:93 - This is an info message from the test.

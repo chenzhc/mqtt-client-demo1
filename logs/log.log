@@ -1,0 +1,88 @@
+2025-09-10T16:56:29.681805500+08:00 INFO mqtt_client_demo1 - INFO
+2025-09-10T16:56:29.682032900+08:00 INFO mqtt_client_demo1 - Thi***************.
+2025-09-10T16:56:29.687576200+08:00 INFO mqtt_client_demo1 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 11 })
+2025-09-10T16:56:29.689788800+08:00 INFO mqtt_client_demo1::tests - This is an info message from the test.
+2025-09-10T16:56:40.755253700+08:00 INFO mqtt_client_demo1 - INFO
+2025-09-10T16:56:40.755512+08:00 INFO mqtt_client_demo1 - Thi***************.
+2025-09-10T16:56:40.761750700+08:00 INFO mqtt_client_demo1 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 12 })
+2025-09-10T16:56:40.763917200+08:00 INFO mqtt_client_demo1::tests - This is an info message from the test.
+2025-09-10T16:57:14.085133500+08:00 INFO mqtt_client_demo1 - INFO
+2025-09-10T16:57:14.085424300+08:00 INFO mqtt_client_demo1 - Thi***************.
+2025-09-10T16:57:14.092513+08:00 INFO mqtt_client_demo1 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 14 })
+2025-09-10T16:57:14.094428200+08:00 INFO mqtt_client_demo1::tests - This is an info message from the test.
+2025-09-10T16:57:21.010266900+08:00 INFO mqtt_client_demo1 - INFO
+2025-09-10T16:57:21.085267100+08:00 INFO mqtt_client_demo1 - Received = Incoming(ConnAck(ConnAck { session_present: false, code: Success }))
+2025-09-10T16:57:21.085563100+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Subscribe(1))
+2025-09-10T16:57:21.085767500+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(2))
+2025-09-10T16:57:21.095875900+08:00 INFO mqtt_client_demo1 - Received = Incoming(SubAck(SubAck { pkid: 1, return_codes: [Success(AtMostOnce)] }))
+2025-09-10T16:57:21.107399500+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 2 }))
+2025-09-10T16:57:21.125779600+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(3))
+2025-09-10T16:57:21.135663600+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 3 }))
+2025-09-10T16:57:21.234360600+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(4))
+2025-09-10T16:57:21.243839300+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 4 }))
+2025-09-10T16:57:21.344403600+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(5))
+2025-09-10T16:57:21.353722300+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 5 }))
+2025-09-10T16:57:21.453477200+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(6))
+2025-09-10T16:57:21.463066600+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 6 }))
+2025-09-10T16:57:21.563515200+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(7))
+2025-09-10T16:57:21.575464300+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 7 }))
+2025-09-10T16:57:21.674454200+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(8))
+2025-09-10T16:57:21.683681200+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 8 }))
+2025-09-10T16:57:21.784548+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(9))
+2025-09-10T16:57:21.794260200+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 9 }))
+2025-09-10T16:57:21.895409800+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(10))
+2025-09-10T16:57:21.904867700+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 10 }))
+2025-09-10T16:57:22.005552800+08:00 INFO mqtt_client_demo1 - Received = Outgoing(Publish(11))
+2025-09-10T16:57:22.023408900+08:00 INFO mqtt_client_demo1 - Received = Incoming(PubAck(PubAck { pkid: 11 }))
+2025-09-10 16:58:41 INFO mqtt_client_demo1 - INFO
+2025-09-10 16:58:41 INFO mqtt_client_demo1 - Thi***************.
+2025-09-10 16:58:41 INFO mqtt_client_demo1 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 15 })
+2025-09-10 16:58:41 INFO mqtt_client_demo1::tests - This is an info message from the test.
+2025-09-10 16:59:45 INFO mqtt_client_demo18 - INFO
+2025-09-10 16:59:45 INFO mqtt_client_demo155 - Thi***************.
+2025-09-10 16:59:45 INFO mqtt_client_demo177 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 16 })
+2025-09-10 16:59:45 INFO mqtt_client_demo1::tests93 - This is an info message from the test.
+2025-09-10 16:59:52 INFO mqtt_client_demo18 - INFO
+2025-09-10 16:59:52 INFO mqtt_client_demo155 - Thi***************.
+2025-09-10 16:59:52 INFO mqtt_client_demo177 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 17 })
+2025-09-10 16:59:52 INFO mqtt_client_demo1::tests93 - This is an info message from the test.
+2025-09-10 17:00:19 INFO mqtt_client_demo117344 - INFO
+2025-09-10 17:00:19 INFO mqtt_client_demo117344 - Thi***************.
+2025-09-10 17:00:19 INFO mqtt_client_demo117344 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 18 })
+2025-09-10 17:00:19 INFO mqtt_client_demo1::tests17344 - This is an info message from the test.
+2025-09-10 17:00:29 INFO mqtt_client_demo125700 - INFO
+2025-09-10 17:00:29 INFO mqtt_client_demo125700 - Thi***************.
+2025-09-10 17:00:29 INFO mqtt_client_demo125700 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 19 })
+2025-09-10 17:00:29 INFO mqtt_client_demo1::tests25700 - This is an info message from the test.
+2025-09-10 17:00:39 INFO mqtt_client_demo125904 - INFO
+2025-09-10 17:00:39 INFO mqtt_client_demo125904 - Thi***************.
+2025-09-10 17:00:39 INFO mqtt_client_demo125904 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 20 })
+2025-09-10 17:00:39 INFO mqtt_client_demo1::tests25904 - This is an info message from the test.
+2025-09-10 17:00:54 INFO mqtt_client_demo1:8 - INFO
+2025-09-10 17:00:54 INFO mqtt_client_demo1:55 - Thi***************.
+2025-09-10 17:00:54 INFO mqtt_client_demo1:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 21 })
+2025-09-10 17:00:54 INFO mqtt_client_demo1::tests:93 - This is an info message from the test.
+2025-09-10 17:04:47 INFO mqtt_client_demo1:8 - INFO
+2025-09-10 17:04:47 INFO mqtt_client_demo1:55 - Thi***************.
+2025-09-10 17:04:47 INFO mqtt_client_demo1:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 22 })
+2025-09-10 17:04:47 INFO mqtt_client_demo1::tests:93 - This is an info message from the test.
+2025-09-10 17:05:06 INFO src\lib.rs:8 - INFO
+2025-09-10 17:05:06 INFO src\lib.rs:55 - Thi***************.
+2025-09-10 17:05:06 INFO src\lib.rs:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 23 })
+2025-09-10 17:05:06 INFO src\lib.rs:93 - This is an info message from the test.
+2025-09-10 17:05:16 INFO src\lib.rs:8 - INFO
+2025-09-10 17:05:16 INFO src\lib.rs:55 - Thi***************.
+2025-09-10 17:05:16 INFO src\lib.rs:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 24 })
+2025-09-10 17:05:16 INFO src\lib.rs:93 - This is an info message from the test.
+2025-09-10 17:05:47 INFO  mqtt_client_demo1 src\lib.rs:8 - INFO
+2025-09-10 17:05:47 INFO  mqtt_client_demo1 src\lib.rs:55 - Thi***************.
+2025-09-10 17:05:47 INFO  mqtt_client_demo1 src\lib.rs:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 25 })
+2025-09-10 17:05:47 INFO  mqtt_client_demo1::tests src\lib.rs:93 - This is an info message from the test.
+2025-09-10 17:09:13 INFO  mqtt_client_demo1 src\lib.rs:8 - INFO
+2025-09-10 17:09:13 INFO  mqtt_client_demo1 src\lib.rs:55 - Thi***************.
+2025-09-10 17:09:13 INFO  mqtt_client_demo1 src\lib.rs:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 26 })
+2025-09-10 17:09:13 INFO  mqtt_client_demo1::tests src\lib.rs:93 - This is an info message from the test.
+2025-09-10 17:09:39 INFO  mqtt_client_demo1 src\lib.rs:8 - INFO
+2025-09-10 17:09:39 INFO  mqtt_client_demo1 src\lib.rs:55 - Thi***************.
+2025-09-10 17:09:39 INFO  mqtt_client_demo1 src\lib.rs:77 - result: Ok(SqliteQueryResult { changes: 1, last_insert_rowid: 27 })
+2025-09-10 17:09:39 INFO  mqtt_client_demo1::tests src\lib.rs:93 - This is an info message from the test.
