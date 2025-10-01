@@ -14,6 +14,8 @@ log = "0.4"
 log4rs = { version = "1.4.0", features = ["console_appender", "rolling_file_appender", "size_trigger", "time_trigger", "pattern_encoder", "gzip"] }
 mysql = "26.0.1"
 chrono = "0.4.42"
+dotenv = "0.15.0"
+dotenvy = "0.15.7"
 
 [dev-dependencies]
 env_logger = "0.11"

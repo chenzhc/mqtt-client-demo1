@@ -1,9 +1,11 @@
 use log::info;
 use sqlx::{sqlite::SqliteQueryResult, Sqlite, SqlitePool};
 use sqlx::{migrate::MigrateDatabase};
+use dotenv::dotenv;
 
 // init log config
 pub fn init() {
+    dotenv().ok();
     log4rs::init_file("log4rs.yaml", Default::default()).unwrap();
     info!("INFO");
     // let _ = env_logger::builder()
